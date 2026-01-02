@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Alok Kumar!
 - 🚀 Mission Critical Software Engineer @ Schuberg Philis | C# & Python Expert | Trading & Financial Systems Developer
 
-- 🔹 19+ years of experience in software development
+- 🔹 20+ years of experience in software development
 - 🔹 Specialized in Energy & Financial Trading Software
 - 🔹 Skilled in C#, Python, and system architecture
 - 🔹 Passionate about automation, scalability, and leadership
